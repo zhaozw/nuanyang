@@ -1,5 +1,3 @@
-lalalal
-
 <?php 
 require_once 'include.php';
 checkLogind();
