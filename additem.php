@@ -1,4 +1,5 @@
 <?php 
+lllll
 require_once 'include.php';
 checkLogind();
 $rows=getAllCate();
